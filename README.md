@@ -1,2 +1,2 @@
 # boi
-a 2d game made from scratch in javascript
+a 2d platformer game made from scratch in javascript
